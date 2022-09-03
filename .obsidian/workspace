@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "17dc09d83f484534",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db70a7bdc26214b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Level15a16.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcda871e1db92f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5fd65f035cafa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b305e99c2f460bb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2becc5319f14684d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bandit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85cad35128aa131a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2023e133205bdef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4db81d6d1a8d92f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7094bb2be4273618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Level15a16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1f2f3ab55613cf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Level15a16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b0b983d07ed30ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "adffd9831f94c129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Level15a16.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5,
+    "collapsed": true
+  },
+  "active": "5db70a7bdc26214b",
+  "lastOpenFiles": [
+    "Level14a15.md",
+    "Level15a16.md",
+    "Bandit.md",
+    "Level13a14.md",
+    "Level12a13.md",
+    "Level11a12.md",
+    "Level10a11.md",
+    "Level9a10.md",
+    "level8a9.md",
+    "Level0a1.md"
+  ]
+}
