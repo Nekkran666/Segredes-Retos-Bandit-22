@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level15a16.md",
+            "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 539.5
   },
   "right": {
     "id": "2023e133205bdef8",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level15a16.md",
+                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level15a16.md",
+                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level15a16.md"
+                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "5db70a7bdc26214b",
   "lastOpenFiles": [
-    "Level14a15.md",
-    "Level15a16.md",
-    "Bandit.md",
-    "Level13a14.md",
-    "Level12a13.md",
-    "Level11a12.md",
-    "Level10a11.md",
-    "Level9a10.md",
-    "level8a9.md",
-    "Level0a1.md"
+    "PicoCTF/GeneralSkills-2021/Tab, Tab, Attack.md",
+    "PicoCTF/GeneralSkills-2021/Static ain't always noise.md",
+    "PicoCTF/GeneralSkills-2021/Obedient CAt.md",
+    "PicoCTF/GeneralSkills-2021/Nice netcat.md",
+    "PicoCTF/GeneralSkills-2019/2Warm.md",
+    "PicoCTF/GeneralSkills-2019/Based.md",
+    "PicoCTF/GeneralSkills-2019/Bases.md",
+    "PicoCTF/GeneralSkills-2019/First Grep.md",
+    "PicoCTF/GeneralSkills-2019/Lets Warm Up.md",
+    "PicoCTF/GeneralSkills-2019/plumbing.md"
   ]
 }

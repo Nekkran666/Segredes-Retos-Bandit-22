@@ -11,8 +11,16 @@ jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 ## Solucion
 
+```
+bandit15@bandit:~$ openssl s_client -connect localhost:30001 -ign_eof
+CONNECTED(00000003)
+```
+
+JQttfApK4SeyHwDlI9SXGR50qclOAil1
+
 
 ## Notas adicionales
+
 
 ## Referencias
 
