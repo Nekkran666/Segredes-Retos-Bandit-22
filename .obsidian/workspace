@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
+            "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 539.5
+    "width": 233.5
   },
   "right": {
     "id": "2023e133205bdef8",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
+                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md",
+                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/GeneralSkills-2021/Wave a flag.md"
+                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "5db70a7bdc26214b",
   "lastOpenFiles": [
-    "PicoCTF/GeneralSkills-2021/Tab, Tab, Attack.md",
-    "PicoCTF/GeneralSkills-2021/Static ain't always noise.md",
-    "PicoCTF/GeneralSkills-2021/Obedient CAt.md",
-    "PicoCTF/GeneralSkills-2021/Nice netcat.md",
-    "PicoCTF/GeneralSkills-2019/2Warm.md",
-    "PicoCTF/GeneralSkills-2019/Based.md",
-    "PicoCTF/GeneralSkills-2019/Bases.md",
-    "PicoCTF/GeneralSkills-2019/First Grep.md",
-    "PicoCTF/GeneralSkills-2019/Lets Warm Up.md",
-    "PicoCTF/GeneralSkills-2019/plumbing.md"
+    "PicoCTF/Beginner PicoMini 2022/PW Crack 2.md",
+    "PicoCTF/Beginner PicoMini 2022/PW Crack 1.md",
+    "PicoCTF/Beginner PicoMini 2022/fixme2.py.md",
+    "PicoCTF/Beginner PicoMini 2022/convertme.py.md",
+    "PicoCTF/Beginner PicoMini 2022/Codebook.md",
+    "PicoCTF/Beginner PicoMini 2022/Glitch cat.md",
+    "Pasted image 20220924201326.png",
+    "PicoCTF/Beginner PicoMini 2022/fixme1.py.md",
+    "PicoCTF/WebExploitation/PicoCTF.md",
+    "PicoCTF/Beginner PicoMini 2022/runme.py.md"
   ]
 }
