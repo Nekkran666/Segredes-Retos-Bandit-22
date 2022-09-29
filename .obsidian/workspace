@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
+            "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
+                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md",
+                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md"
+                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "5db70a7bdc26214b",
   "lastOpenFiles": [
-    "PicoCTF/Beginner PicoMini 2022/PW Crack 2.md",
-    "PicoCTF/Beginner PicoMini 2022/PW Crack 1.md",
-    "PicoCTF/Beginner PicoMini 2022/fixme2.py.md",
-    "PicoCTF/Beginner PicoMini 2022/convertme.py.md",
-    "PicoCTF/Beginner PicoMini 2022/Codebook.md",
-    "PicoCTF/Beginner PicoMini 2022/Glitch cat.md",
-    "Pasted image 20220924201326.png",
-    "PicoCTF/Beginner PicoMini 2022/fixme1.py.md",
     "PicoCTF/WebExploitation/PicoCTF.md",
-    "PicoCTF/Beginner PicoMini 2022/runme.py.md"
+    "PicoCTF/WebExploitation/picobrowser.md",
+    "PicoCTF/WebExploitation/Logon.md",
+    "PicoCTF/WebExploitation/JaWTScratchpad.md",
+    "PicoCTF/WebExploitation/were are the robots.md",
+    "PicoCTF/WebExploitation/Irish-name-repo3.md",
+    "PicoCTF/WebExploitation/Irish-name-repo2.md",
+    "PicoCTF/WebExploitation/Irish-name-repo1.md",
+    "PicoCTF/Irish-name-repo2.md",
+    "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md"
   ]
 }
