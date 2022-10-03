@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
+            "file": "PicoCTF/WebExploitation-2021/Scavenger hunt.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
+                "file": "PicoCTF/WebExploitation-2021/Scavenger hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md",
+                "file": "PicoCTF/WebExploitation-2021/Scavenger hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/WebExploitation/JaWTScratchpad.md"
+                "file": "PicoCTF/WebExploitation-2021/Scavenger hunt.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "5db70a7bdc26214b",
   "lastOpenFiles": [
-    "PicoCTF/WebExploitation/PicoCTF.md",
-    "PicoCTF/WebExploitation/picobrowser.md",
-    "PicoCTF/WebExploitation/Logon.md",
-    "PicoCTF/WebExploitation/JaWTScratchpad.md",
-    "PicoCTF/WebExploitation/were are the robots.md",
-    "PicoCTF/WebExploitation/Irish-name-repo3.md",
-    "PicoCTF/WebExploitation/Irish-name-repo2.md",
+    "PicoCTF/WebExploitation/client-side-again.md",
+    "PicoCTF/WebExploitation/dont-use-client-side.md",
+    "PicoCTF/WebExploitation/Insp3ct0r.md",
     "PicoCTF/WebExploitation/Irish-name-repo1.md",
-    "PicoCTF/Irish-name-repo2.md",
-    "PicoCTF/Beginner PicoMini 2022/PW Crack 3.md"
+    "PicoCTF/WebExploitation/Irish-name-repo3.md",
+    "PicoCTF/WebExploitation/JaWTScratchpad.md",
+    "PicoCTF/WebExploitation/Logon.md",
+    "PicoCTF/WebExploitation/picobrowser.md",
+    "PicoCTF/WebExploitation/PicoCTF.md",
+    "PicoCTF/WebExploitation/were are the robots.md"
   ]
 }
