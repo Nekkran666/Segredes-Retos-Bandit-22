@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PicoCTF/Forensics-2019/So Meta.md",
+            "file": "PicoCTF/Forensics-2019/WebNet1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensics-2019/So Meta.md",
+                "file": "PicoCTF/Forensics-2019/WebNet1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensics-2019/So Meta.md",
+                "file": "PicoCTF/Forensics-2019/WebNet1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensics-2019/So Meta.md"
+                "file": "PicoCTF/Forensics-2019/WebNet1.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "5db70a7bdc26214b",
   "lastOpenFiles": [
-    "PicoCTF/Forensics-2019/shark on wire 1.md",
-    "PicoCTF/Forensics-2019/extensions.md",
-    "PicoCTF/Forensics-2019/GLory of the Garden.md",
-    "PicoCTF/Forensics-2019/So Meta.md",
-    "PicoCTF/Forensics-2019/WhitePages.md",
-    "PicoCTF/Forensics-2019/What lies within.md",
+    "PicoCTF/Forensics-2019/WebNet0.md",
+    "PicoCTF/Forensics-2019/WebNet1.md",
+    "PicoCTF/Forensics-2019/sharkOnWire2.md",
+    "PicoCTF/Forensics-2019/like1000.md",
+    "PicoCTF/Forensics-2019/c0rrupt.md",
+    "PicoCTF/GeneralSkills-2019/2Warm.md",
     "PicoCTF/Forensics-2019/m00nwalk.md",
-    "PicoCTF/WebExploitation/PicoCTF.md",
-    "PicoCTF/WebExploitation-2022/Secrets.md",
-    "PicoCTF/WebExploitation-2022/SQL Direct.md"
+    "PicoCTF/Forensics-2019/shark on wire 1.md",
+    "PicoCTF/Forensics-2019/So Meta.md",
+    "PicoCTF/Forensics-2019/What lies within.md"
   ]
 }
