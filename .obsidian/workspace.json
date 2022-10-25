@@ -42,9 +42,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae278db3e4006c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c5bdb97a31d034e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2021/Wireshark doo dooo do doo....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c3d5d315d4f4d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2022/Enchance!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cb35bae43470827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2022/Lookey here.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa2dfccbee3c3603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2022/Packets Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eac37d045706c4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2022/Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e76f10c6a593dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensics-2022/St3g0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -110,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensics-2022/Operation oni.md",
+                "file": "PicoCTF/Forensics-2022/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensics-2022/Operation oni.md",
+                "file": "PicoCTF/Forensics-2022/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensics-2022/Operation oni.md"
+                "file": "PicoCTF/Forensics-2022/St3g0.md"
               }
             }
           }
@@ -165,17 +249,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ea6d3d1dd72b8ad",
+  "active": "2e76f10c6a593dfb",
   "lastOpenFiles": [
+    "PicoCTF/Forensics-2022/Redaction gone wrong.md",
+    "PicoCTF/Forensics-2022/Packets Primer.md",
+    "PicoCTF/Forensics-2022/Lookey here.md",
+    "PicoCTF/Forensics-2022/Enchance!.md",
+    "PicoCTF/Forensics-2022/St3g0.md",
     "PicoCTF/Forensics-2022/Sleuthkit Intr.md",
     "PicoCTF/Forensics-2022/Operation oni.md",
     "PicoCTF/WebExploitation/PicoCTF.md",
-    "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md",
-    "PicoCTF/Forensics-2021/Trivial Flag Transfer Protocol.md",
-    "PicoCTF/Forensics-2021/tunn3l_v1s10n.md",
-    "PicoCTF/Forensics-2021/MacroHard WeakEdge.md",
-    "PicoCTF/Forensics-2021/Matryoshka doll.md",
-    "PicoCTF/Forensics-2019/WebNet1.md",
-    "PicoCTF/Forensics-2019/WebNet0.md"
+    "PicoCTF/Forensics-2021/Wireshark doo dooo do doo....md",
+    "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md"
   ]
 }
