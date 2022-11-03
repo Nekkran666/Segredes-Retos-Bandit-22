@@ -4,131 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "10d416546e941449",
+        "id": "d3476758863886a6",
         "type": "tabs",
         "children": [
           {
-            "id": "5db70a7bdc26214b",
+            "id": "ceae452f6890afaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a98bda520c7dbba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Sleuthkit Intr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ea6d3d1dd72b8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Operation oni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ae278db3e4006c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c5bdb97a31d034e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2021/Wireshark doo dooo do doo....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3d5d315d4f4d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Enchance!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb35bae43470827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Lookey here.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2dfccbee3c3603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Packets Primer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eac37d045706c4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/Redaction gone wrong.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e76f10c6a593dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics-2022/St3g0.md",
+                "file": "PicoCTF/Crypto/2019/Tapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensics-2022/St3g0.md",
+                "file": "PicoCTF/Crypto/2019/Tapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensics-2022/St3g0.md",
+                "file": "PicoCTF/Crypto/2019/Tapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensics-2022/St3g0.md"
+                "file": "PicoCTF/Crypto/2019/Tapping.md"
               }
             }
           }
@@ -246,20 +137,17 @@
     "width": 262.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "2e76f10c6a593dfb",
+  "active": "ceae452f6890afaa",
   "lastOpenFiles": [
-    "PicoCTF/Forensics-2022/Redaction gone wrong.md",
-    "PicoCTF/Forensics-2022/Packets Primer.md",
-    "PicoCTF/Forensics-2022/Lookey here.md",
-    "PicoCTF/Forensics-2022/Enchance!.md",
-    "PicoCTF/Forensics-2022/St3g0.md",
-    "PicoCTF/Forensics-2022/Sleuthkit Intr.md",
-    "PicoCTF/Forensics-2022/Operation oni.md",
+    "PicoCTF/Crypto/2019/La cifra de.md",
+    "PicoCTF/Crypto/2019/Caesar.md",
+    "PicoCTF/Crypto/2019/13.md",
+    "PicoCTF/Crypto/2019/Easy 1.md",
+    "PicoCTF/Crypto/2019/The numbers.md",
+    "PicoCTF/Crypto/2019/Waves over lamda.md",
+    "PicoCTF/Crypto/2019/Tapping.md",
     "PicoCTF/WebExploitation/PicoCTF.md",
-    "PicoCTF/Forensics-2021/Wireshark doo dooo do doo....md",
-    "PicoCTF/Forensics-2021/Wireshark twoo twooo two twoo....md"
+    "PicoCTF/Forensics-2022/St3g0.md",
+    "PicoCTF/Forensics-2022/Redaction gone wrong.md"
   ]
 }
