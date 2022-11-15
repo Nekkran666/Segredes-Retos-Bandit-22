@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto/Tarea 8/rail fence.md",
+                "file": "PicoCTF/Reversing-2019/vault-door-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto/Tarea 8/rail fence.md",
+                "file": "PicoCTF/Reversing-2019/vault-door-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Crypto/Tarea 8/rail fence.md",
+                "file": "PicoCTF/Reversing-2019/vault-door-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Crypto/Tarea 8/rail fence.md"
+                "file": "PicoCTF/Reversing-2019/vault-door-3.md"
               }
             }
           }
@@ -176,15 +176,15 @@
   },
   "active": "c3e7ea42fef0978d",
   "lastOpenFiles": [
-    "PicoCTF/Crypto/Tarea 8/Morsecode.md",
+    "PicoCTF/Reversing-2019/vault-door-4.md",
+    "PicoCTF/Reversing-2019/vault-door-training.md",
+    "PicoCTF/Reversing-2019/vault-door-3.md",
+    "PicoCTF/Reversing-2019/vault-door-1.md",
     "PicoCTF/Crypto/Tarea 8/rail fence.md",
+    "PicoCTF/Crypto/Tarea 8/Morsecode.md",
     "PicoCTF/Crypto/Tarea 8/Mod 26.md",
     "PicoCTF/Crypto/Tarea 8/MiniRSA.md",
     "PicoCTF/Crypto/Tarea 8/credstuff.md",
-    "PicoCTF/Crypto/Tarea 8/basic-mod1.md",
-    "PicoCTF/Crypto/2021/PIxelated.md",
-    "PicoCTF/Crypto/2021/No padding, no problem.md",
-    "PicoCTF/Crypto/2021/mind your ps and qs.md",
-    "PicoCTF/Crypto/2021/BasicMod1.md"
+    "PicoCTF/Crypto/Tarea 8/basic-mod1.md"
   ]
 }
